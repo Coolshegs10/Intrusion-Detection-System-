@@ -1,2 +1,1 @@
 # Intrusion-Detection-System-
-# This repository contains the code for an intrusion detection system based on four different machine learning models: Bernoulli Naive Bayes, Logistic Regression, K-Nearest Neighbors, and Decision Tree. The models are trained and evaluated on the UNSW-NB15 dataset, which contains realistic and diverse network attacks. After training, the system could classify network traffic as normal or malicious. 
